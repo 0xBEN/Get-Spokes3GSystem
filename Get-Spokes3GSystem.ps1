@@ -32,7 +32,7 @@
 
         .LINK
         https://www.exploit-db.com/exploits/47845
-    #>
+#>
 [CmdletBinding()]
 param (
     [Parameter()]
