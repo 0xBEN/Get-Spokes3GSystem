@@ -14,7 +14,7 @@ Windows Server 2019
 1. Download the script to the target
 2. If using a custom payload file, place that in a writable directory on the target
 3. Run the script
-  - If using the script as-is, will spawn cmd.exe SYSTEM
+  - If using the script as-is, will spawn cmd.exe as SYSTEM
   
 ```powershell
 .\Get-Spokes3GSystem.ps1
